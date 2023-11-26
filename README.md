@@ -1,5 +1,5 @@
 # Lucas Caliento Barone
-Hello! My name is Lucas Caliento Barone, and I hold a degree in Electrical Engineering from the Federal University of São Carlos (UFSCar). Currently, I am seeking professional opportunities as a Backend Developer. I have a strong aptitude for learning new technologies, a solid background in working within dynamic teams and positive relationships with clients. My adaptability and communication skills enable me to proactively contribute to challenging projects. I am excited about utilizing my talents to contribute to the success of new initiatives and add value to innovative projects.
+Hello! My name is Lucas Caliento Barone, and I hold a degree in Electrical Engineering from the Federal University of São Carlos (UFSCar). Currently, I am seeking professional opportunities as a Backend or Fullstack Developer. I have a strong aptitude for learning new technologies, a solid background in working within dynamic teams and positive relationships with clients. My adaptability and communication skills enable me to proactively contribute to challenging projects. I am excited about utilizing my talents to contribute to the success of new initiatives and add value to innovative projects.
 
 ## Languages
 - Portuguese (native);
